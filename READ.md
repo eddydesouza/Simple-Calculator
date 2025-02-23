@@ -39,6 +39,13 @@ Ensure you have Python installed on your system. No additional libraries are req
 
 This project is free to use and modify.
 
+![image alt](https://github.com/eddydesouza/Simple-Calculator/blob/master/1.png)
+
+![image alt](https://github.com/eddydesouza/Simple-Calculator/blob/master/2.png)
+
+![image alt](https://github.com/eddydesouza/Simple-Calculator/blob/master/3.png)
+
+![image alt](https://github.com/eddydesouza/Simple-Calculator/blob/master/4.png)
 
 
 
